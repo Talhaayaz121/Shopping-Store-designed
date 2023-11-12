@@ -1,0 +1,28 @@
+body{
+    background-image: url(./images.jpg); 
+    color: white;
+    
+}      
+a{
+    text-decoration: none;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color:chartreuse;
+}
+a:hover{
+    text-decoration: underline;
+}
+.one{
+    background-color: greenyellow;
+
+}
+
+.two{
+    color: blue;
+}

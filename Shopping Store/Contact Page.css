@@ -1,0 +1,30 @@
+body{
+    background-image: url(./images.jpg); 
+    color: white;
+    
+}      
+input{
+    background-color:bisque;
+}
+input:hover{
+    background-color: yellow;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.one{
+    color: chartreuse;
+}
+.four{
+    background-color: greenyellow;
+
+}
+.five{
+    background-color:bisque;
+
+}
